@@ -35,7 +35,7 @@
 		<qiniu.version>7.12.1</qiniu.version>
 		<aliyun.oss.version>3.16.0</aliyun.oss.version>
 		<qcloud.cos.version>5.6.125.2</qcloud.cos.version>
-		<joda.time.version>2.12.2</joda.time.version>
+		<joda.time.version>2.12.5</joda.time.version>
 		<gson.version>2.10</gson.version>
 		<fastjson.version>2.0.22</fastjson.version>
 		<hutool.version>5.8.11</hutool.version>
