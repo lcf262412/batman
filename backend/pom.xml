@@ -25,11 +25,11 @@
 		<druid.version>1.2.15</druid.version>
 		<quartz.version>2.3.2</quartz.version>
 		<commons.lang3.version>3.1</commons.lang3.version>
-		<commons.fileupload.version>1.5</commons.fileupload.version>
+		<commons.fileupload.version>1.6.0</commons.fileupload.version>
 		<commons.io.version>2.11.0</commons.io.version>
 		<commons.codec.version>1.15</commons.codec.version>
 		<commons.configuration.version>1.10</commons.configuration.version>
-		<shiro.version>1.10.0</shiro.version>
+		<shiro.version>2.0.5</shiro.version>
 		<jwt.version>0.9.1</jwt.version>
 		<kaptcha.version>0.0.9</kaptcha.version>
 		<qiniu.version>7.12.1</qiniu.version>
