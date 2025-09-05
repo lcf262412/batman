@@ -23,7 +23,7 @@
     "sass": "^1.26.5",
     "sass-loader": "^9.0.2",
     "screenfull": "^4.2.1",
-    "serve": "^14.2.0",
+    "serve": "^14.2.5",
     "svg-sprite-loader": "^5.2.1",
     "vue": "^2.6.11",
     "vue-cron": "^1.0.9",
